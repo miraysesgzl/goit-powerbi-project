@@ -35,4 +35,5 @@ The goal was to build an interactive and insightful funnel to support marketing 
 
 ## 📁 Download
 
-👉 [GA4_Analiz_PowerBI.pbix](./GA4_Analiz_PowerBI.pbix)
+👉 [Click here to directly download the Power BI project file (.pbix)](https://github.com/miraysesgzl/goit-powerbi-project/raw/main/GA4_Analiz_PowerBI.pbix)
+
